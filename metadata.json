@@ -1,0 +1,6 @@
+{
+  "name": "Professional Portfolio",
+  "description": "An interactive, beautiful, and responsive professional developer portfolio showcasing projects, achievements, resume, skills, a dynamic blog, and featuring an AI portfolio chatbot assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
